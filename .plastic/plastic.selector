@@ -1,0 +1,4 @@
+repository "UGUI_Demo@handsomebrucewayne@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
